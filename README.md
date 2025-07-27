@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </h1>
 </div>
 <div align="center">
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQct7BINrK6ez7Q457AYhz5SwTtLRT6D5Lg&s]" width="600" height="300"/>
+  <img src="[https://www.google.com/imgres?q=oil%20and%20gas%20drilling%20animated%20gif%20for%20github%20profile&imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Foil-production-9502161-7725533.gif&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fdrilling-rig&docid=w5B0uNV_lBr3TM&tbnid=K5NjjmSKiAqlnM&vet=12ahUKEwiykIKIy92OAxXERP4FHa2FK-UQM3oECBgQAA..i&w=351&h=261&hcb=2&ved=2ahUKEwiykIKIy92OAxXERP4FHa2FK-UQM3oECBgQAA]" width="600" height="300"/>
 </div>
 
 ---
