@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </h1>
 </div>
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1yZfqxXQGXMT7s-Dvr25dc&ust=1753725456575000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDAlMjO3Y4DFQAAAAAdAAAAABAK" width="600" height="300"/>
+  <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif" width="600" height="300"/>
 </div>
 
 ---
