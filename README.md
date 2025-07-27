@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </h1>
 </div>
 <div align="center">
-  <img src="https://www.google.com/imgres?q=%20animated%20gif%20for%20github%20profile&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&tbnid=N8Ehn8UbrUx_CM&vet=12ahUKEwi-1rPHzt2OAxXN9AIHHeMiCG0QM3oECB0QAA..i&w=512&h=384&hcb=2&ved=2ahUKEwi-1rPHzt2OAxXN9AIHHeMiCG0QM3oECB0QAA" width="600" height="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1yZfqxXQGXMT7s-Dvr25dc&ust=1753725456575000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDAlMjO3Y4DFQAAAAAdAAAAABAK" width="600" height="300"/>
 </div>
 
 ---
