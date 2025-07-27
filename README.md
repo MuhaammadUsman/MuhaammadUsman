@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://iconscout.com/lottie-animation/oil-production-9502161_7725533)" width="600" height="300"/>
 </div>
 
 ---
