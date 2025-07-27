@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </h1>
 </div>
 <div align="center">
-  <img src="[https://iconscout.com/lottie-animation/oil-production-9502161_7725533]" width="600" height="300"/>
+  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQct7BINrK6ez7Q457AYhz5SwTtLRT6D5Lg&s]" width="600" height="300"/>
 </div>
 
 ---
