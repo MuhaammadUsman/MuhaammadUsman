@@ -41,6 +41,8 @@ Hi, I'm Muhammad Usman — a passionate `Data Scientist` / `Geologist` <img src=
 - :mailbox: How to reach me: 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/MuhaammadUsman) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/muhaammadusman) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhaammadusman/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=email)](mailto:mughalusman8575@gmail.com)
 
 ---
